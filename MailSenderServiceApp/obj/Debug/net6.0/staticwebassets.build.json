@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7RWeCnvCbtpeH9mwPLzgKAvnTxpmGCVCzMrOwWKGjo4=",
+  "Source": "MailSenderServiceApp",
+  "BasePath": "_content/MailSenderServiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
