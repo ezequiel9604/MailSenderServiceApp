@@ -20,8 +20,6 @@ public class MailService : IMailService
     public async Task SendEmailAsync(MailRequest mailRequest)
     {
 
-        System.Console.WriteLine(_mailSettings.UserName);
-
         try
         {
             var message = new MimeMessage();
